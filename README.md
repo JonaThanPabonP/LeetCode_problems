@@ -1,9 +1,12 @@
-# LeetCode_problems
-Problemas propuestos en la página https://leetcode.com/problemset/all/ y resueltos usando python3.
-Existen 3 dificultades: Easy(E), Medium(M) y Hard(H)
+# Problemas de **LeetCode**
 
-#   Problem's name              --->    file's name
-1.  Two Sum (E)                 --->    1_twoSum.py
-7.  Reverse Integer (E)         --->    7_reverseInteger.py
-9.  Palindrome Number (E)       --->    9_palindromeNumber.py
-13. Roman to Integer (E)        --->    13_romanToInt.py
+Problemas propuestos por la página [LeetCode](https://leetcode.com/problemset/all/) y resueltos usando _python3_.
+
+>Existen 3 niveles de dificultad: Easy (`Fácil`), Medium (`Intermedio`) y Hard (`Difícil`).
+
+| N° | Problema | Dificultad |
+|-|-|-|
+| 1 | [Two Sum](1_twoSum.py) | `Fácil` |
+| 7 | [Reverse Integer](7_reverseInteger.py) | `Fácil` |
+| 9 | [Palindrome Number](9_palindromeNumber.py) | `Fácil` |
+| 13 | [Roman to Integer](13_romanToInt.py) | `Fácil` |
