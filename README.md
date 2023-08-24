@@ -9,7 +9,7 @@ Problemas propuestos por la página [LeetCode](https://leetcode.com/problemset/a
 |-|-|-|-|-|
 | 1 | [Two Sum](1_twoSum.py) | `Fácil` | Python3 | F |
 | 4 | [Median of Two Sorted Arrays](4_medianSortedArrays.py) | `Difícil` | Python3 | F |
-| 5 | [Longest Palindromic Substring](5_longestPalindrome.py) | `Intermedio` | Python3 | E |
+| 5 | [Longest Palindromic Substring](5_longestPalindrome.py) | `Intermedio` | Python3 | F |
 | 7 | [Reverse Integer](7_reverseInteger.py) | `Fácil` | Python3 | F |
 | 9 | [Palindrome Number](9_palindromeNumber.py) | `Fácil` | Python3 | F |
 | 11 | [Container Most Water](11_containerMostWater.py) | `Intermedio` | Python3 | S |
